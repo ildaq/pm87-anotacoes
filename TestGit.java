@@ -5,6 +5,9 @@ public static void main(String[] args) {
 	System.out.println("Trabalhando com branches");
 	System.out.println("Testando branches");
 	System.out.println("Testando branches");
+	System.out.println("Testando branches");
+	System.out.println("Trabalhando com branches");
+	System.out.println("Testando branches");
 	System.out.println("Trabalhando com branches");
 	System.out.println("Testando branches");
 	System.out.println("Testando branches");
